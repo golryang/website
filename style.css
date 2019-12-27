@@ -22,7 +22,7 @@ a{
   flex: initial;
 }
 a:hover{
-  background-color: blue;
+  background-color: black;
 }
 
 #main > div{
