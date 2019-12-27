@@ -24,6 +24,9 @@ a{
 a:hover{
   background-color: black;
 }
+ul:hover{
+  background-color:black;
+}
 
 #main > div{
   padding: 20px;
